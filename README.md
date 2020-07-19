@@ -70,8 +70,14 @@ Não concordei com sua decisão de canibalizar o meu servidor mas caso você se 
 - Memória DDR3 ECC com 6 GB: 3 x R$220,00 = R$660,00 (seiscentos e sessenta reais)
 - **TOTAL: R$2.850,00 (dois mil oitocentos e cinquenta reais)**
 
+Se não for do seu interesse em ficar com o material, **solicito que as peças me sejam devolvidas o mais rapidamente possível**, pois meu trabalho encontra-se prejudicado pela falta deste servidor. O reembolso solicitado não prevê nenhum lucro com a venda do material. Apenas desejo repor as peças retiradas para que eu possa voltar ao meu trabalho normal. Conto com sua colaboração e presteza em solucionar este caso. Caso deseje incluir as duas borrachas previstas na negociação original do micro desktop, concordo com o seu recebimento pelo mesmo valor acordado incial:
 
+- 2 x borrachas Xiom Vega Europa novas pelo valor de 2 x R$200,00 = R$400,00 (quatrocentos reais)
 
+Nesse caso, o reembolso seria reduzido para R$2.850,00 - R$400,00 = R$2.450,00 (dois mil quatrocentos e ciquenta reais).
+
+Atenciosamente,
+José Motta
 
 
 
