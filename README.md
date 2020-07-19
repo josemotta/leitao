@@ -53,6 +53,9 @@ No dia 20 de abril, você confirmou que o micro servidor estava funcionando e qu
 ![p11](https://user-images.githubusercontent.com/86032/87880593-3ac7bf00-c9c9-11ea-885a-3388fec266b9.jpg)
 ![p13](https://user-images.githubusercontent.com/86032/87880825-3b615500-c9cb-11ea-9353-0ecf94ea5163.jpg)
 
+
+
+
 ## Situação atual
 
 Ao invés de trocar a fonte de alimentação do servidor para poder utilizá-lo durante a pandemia, você optou por retirar as peças do micro servidor. Foram retiradas, segundo seu relato, as seguintes peças do gabinete para rack 19":
