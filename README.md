@@ -17,11 +17,11 @@ No dia 25 de junho de 2019, você confirmou mais uma vez a intenção de fazer a
 No dia 9 de março de 2020, você voltou a me procurar, em meio à pandemia do coronavirus, solicitando minha ajuda para conseguir um computador para seu filho que estava sem poder fazer aulas on-line na escola, por falta de um computador. Você veio então até minha residência e pegou o microcomputador desktop para levar para o técnico realizar os serviços necessários de instalaçao e configuração.
 
 ![p4](https://user-images.githubusercontent.com/86032/87878656-0ef20c80-c9bc-11ea-8205-ce8f3c3bb8a1.jpg)
+![p5](https://user-images.githubusercontent.com/86032/87878658-11ecfd00-c9bc-11ea-8077-e0a8a5850db2.jpg)
 
 
 depois servidor
 ![p3](https://user-images.githubusercontent.com/86032/87878672-2630fa00-c9bc-11ea-86b7-74a963f4f12d.jpg)
-![p5](https://user-images.githubusercontent.com/86032/87878658-11ecfd00-c9bc-11ea-8077-e0a8a5850db2.jpg)
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 
 
