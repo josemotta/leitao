@@ -10,7 +10,7 @@ Em Abril de 2019, havíamos combinado em trocar um microcomputador desktop usado
 - 1 x microcomputador desktop com gabinete torre, placa-mãe Intel com processador Intel Pentium D, 2 GB memória e disco HD com 1 TB de capacidade;
 - 2 x borrachas Xiom Vega Europa novas
 
-Segue a conversa realizada através do aplicativo WhatsApp:
+Segue um extrato da nossa conversa, que eu tenho toda registrada no aplicativo WhatsApp:
 
 ![p1](https://user-images.githubusercontent.com/86032/87878519-182ea980-c9bb-11ea-8f68-41013b544f16.jpg)
 ![p2](https://user-images.githubusercontent.com/86032/87878520-18c74000-c9bb-11ea-8d3e-318b02ba9881.jpg)
