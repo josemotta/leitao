@@ -41,7 +41,9 @@ No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ai
 - Disquete 5 1/4"
 - Fonte de alimentação com defeito
 
-Essa opção possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérco fechado e  seu filho sem um computador para fazer as aulas. Você concordou na época em levar o computador para reparo e depois combinávamos o que fazer. Eu concordei em deixar o servidor para rack com você pelo tempo que durasse a dificuldade em obter uma solução definitiva para seu computador. Mais uma vez, deixei bem claro que o valor dessa máquina era BEM maior que o negócio que havíamos combinado. Como comerciante que é, você tinha pleno conhecimento disso. Eu fiquei feliz em poder ajudar um amigo.
+Essa opção possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérco fechado e  seu filho sem um computador para fazer as aulas. Você concordou na época em levar o computador para reparo e depois combinávamos o que fazer. Eu concordei em deixar o servidor para rack com você pelo tempo que durasse a dificuldade em obter uma solução definitiva para seu computador.
+
+Mais uma vez, deixei bem claro que o valor dessa máquina era BEM maior que o negócio que havíamos combinado. Como comerciante que é, você tinha pleno conhecimento disso. Eu fiquei feliz em poder ajudar um amigo.
 
 Pois bem, no sábado, 4 de abril, você veio à minha residência pela segunda vez e pegou o microcomputador servidor para rack 10".
 
