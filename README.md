@@ -30,6 +30,7 @@ No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ai
 ![p9](https://user-images.githubusercontent.com/86032/87879901-d5bd9a80-c9c3-11ea-9d09-feb4802a6969.jpg)
 ![p3](https://user-images.githubusercontent.com/86032/87878672-2630fa00-c9bc-11ea-86b7-74a963f4f12d.jpg)
 
+DESCRIÇÃO DO SERVIDOR EM GABINETE PARA RACK 19"
 - Placa mão Intel S3420GPLX
 - Processador Intel i7
 - Memória DDR3 ECC com 6 G
