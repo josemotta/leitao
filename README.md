@@ -46,9 +46,9 @@ Pois bem, no sábado, 4 de abril, você veio à minha residência pela segunda v
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 ![p10](https://user-images.githubusercontent.com/86032/87880291-f9ceab00-c9c6-11ea-8174-f0ace28d03fe.jpg)
 
+No dia 14 de abril, você confirmou que havia 
 
-
-
+![p11](https://user-images.githubusercontent.com/86032/87880593-3ac7bf00-c9c9-11ea-885a-3388fec266b9.jpg)
 
 
 
