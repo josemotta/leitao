@@ -46,9 +46,8 @@ Pois bem, no sábado, 4 de abril, você veio à minha residência pela segunda v
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 ![p10](https://user-images.githubusercontent.com/86032/87880291-f9ceab00-c9c6-11ea-8174-f0ace28d03fe.jpg)
 
-No dia 14 de abril, você confirmou que o micro servidor estava funcionando e que estava comprando acessório para som, etc. Fiquei bastante feliz de ter podido ajudar ao amigo em dificuldades. 
+No dia 14 de abril, você confirmou que o micro servidor estava funcionando e que estava comprando acessório para som, etc. Fiquei bastante feliz de ter podido ajudar ao amigo em dificuldades. No dia 20 de abril
 
 ![p11](https://user-images.githubusercontent.com/86032/87880593-3ac7bf00-c9c9-11ea-885a-3388fec266b9.jpg)
-![p12](https://user-images.githubusercontent.com/86032/87880688-0c96af00-c9ca-11ea-9ab0-145c7182f484.jpg)
-
+![p11](https://user-images.githubusercontent.com/86032/87880593-3ac7bf00-c9c9-11ea-885a-3388fec266b9.jpg)
 
