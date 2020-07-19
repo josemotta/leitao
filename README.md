@@ -21,6 +21,7 @@ No dia 9 de março de 2020, você voltou a me procurar, em meio à pandemia do c
 
 
 depois servidor
+
 ![p3](https://user-images.githubusercontent.com/86032/87878672-2630fa00-c9bc-11ea-86b7-74a963f4f12d.jpg)
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 
