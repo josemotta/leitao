@@ -55,7 +55,7 @@ No dia 20 de abril, você confirmou que o micro servidor estava funcionando e qu
 
 ## Situação atual
 
-Ao invés de trocar a fonte de alimentação do servidor para poder utilizá-lo durante a pandemia, você optou por retirar as peças do micro servidor. Foram retiradas, segundo seu relato, as segintes peças do gabinete para rack 19":
+Ao invés de trocar a fonte de alimentação do servidor para poder utilizá-lo durante a pandemia, você optou por retirar as peças do micro servidor. Foram retiradas, segundo seu relato, as seguintes peças do gabinete para rack 19":
 
 - Placa mão Intel S3420GPLX
 - Processador Intel i7
@@ -76,9 +76,10 @@ Se não for do seu interesse em ficar com o material, **solicito que as peças m
 
 - 2 x borrachas Xiom Vega Europa novas pelo valor de 2 x R$200,00 = R$400,00 (quatrocentos reais)
 
-Nesse caso, o reembolso seria reduzido para R$2.850,00 - R$400,00 = R$2.450,00 (dois mil quatrocentos e ciquenta reais).
+Nesse caso, o reembolso seria reduzido para R$2.850,00 - R$400,00 = R$2.450,00 (dois mil quatrocentos e cinquenta reais).
 
 Atenciosamente,
+
 José Motta
 
 
