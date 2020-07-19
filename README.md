@@ -59,9 +59,17 @@ Ao invés de trocar a fonte de alimentação do servidor para poder utilizá-lo 
 - Processador Intel i7
 - Memória DDR3 ECC com 6 G
 
-Não concordei com sua decisão mas caso você se interesse em ficar com o material, solicito o reeembolso à vista com base em valores de mercado. Como você deve saber, eu trabalho com informática e dependo desses computadores para realizar meu trabalho. Devido ao empréstimo desse servidor para você, precisei realizar 
+Como você deve saber, eu trabalho com informática e dependo desses computadores para realizar meu trabalho. Devido ao empréstimo desse servidor para você, precisei realizar a compra de uma placa-mãe nova para poder trabalhar. O valor dessa placa-mãe, semelhante à instalada no micro servidor que você levou, foi de R$1.390,00 (hum mil trezentos e noventa reais), conforme comprovação da [nota fiscal](Scan%2019%20Jul%202020%2014_43.pdf) emitida em 12 de maio de 2020.
 
-[Scan 19 Jul 2020 14_43.pdf](https://github.com/josemotta/leitao/files/4944244/Scan.19.Jul.2020.14_43.pdf)
+Não concordei com sua decisão de canibalizar o meu servidor mas caso você se interesse em ficar com o material, solicito o reeembolso à vista com base em valores de mercado, conforme listado a seguir:
+
+**VALORES A SEREM REEMBOLSADOS PELAS PEÇAS RETIRADAS DO SERVIDOR:**
+
+- Placa mão Intel S3420GPLX: R$1.390,00 (hum mil trezentos e noventa reais)
+- Processador Intel i7: R$800,00 (oitocentos reais), com base em cotação do site boadica.com.br
+- Memória DDR3 ECC com 6 GB: 3 x R$220,00 = R$660,00 (seiscentos e sessenta reais)
+- **TOTAL: R$2.850,00 (dois mil oitocentos e cinquenta reais)**
+
 
 
 
