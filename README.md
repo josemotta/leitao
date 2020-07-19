@@ -49,5 +49,7 @@ Pois bem, no sábado, 4 de abril, você veio à minha residência pela segunda v
 No dia 14 de abril, você confirmou que o micro servidor estava funcionando e que estava comprando peças para completar o som. Fiquei bastante feliz de ter podido ajudar ao amigo em dificuldades. No dia 20 de abril
 
 ![p11](https://user-images.githubusercontent.com/86032/87880593-3ac7bf00-c9c9-11ea-885a-3388fec266b9.jpg)
+![p13](https://user-images.githubusercontent.com/86032/87880825-3b615500-c9cb-11ea-9353-0ecf94ea5163.jpg)
+
 
 
