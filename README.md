@@ -25,14 +25,13 @@ No dia 9 de março de 2020, você voltou a me procurar, em meio à pandemia do c
 
 ## Computador servidor com gabinete rack 19"
 
-No dia 2 de abril, pela manhã, eu te perguntei sobre o micro e você ainda não tinha uma definição. No entanto, nesse mesmo dia à tarde você retornou informando que o microcomputador desktop não estava com um defeito que não poderia ser reparado. Você então me perguntou se eu não teria um outro computador. Eu informei que eu tinha um servidor potente mas que estava com a fonte de alimentação queimada, e que eu estava aguardando a abertura do comércio para poder comprar a peça para fazer o reparo.
+No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ainda não tinha uma definição. No entanto, nesse mesmo dia à tarde, você retornou informando que o microcomputador desktop estava com um defeito que não poderia ser reparado. Você então me perguntou se eu não teria um outro computador. Eu informei que eu tinha um servidor potente mas que estava com a fonte de alimentação queimada, e que eu estava aguardando a abertura do comércio para poder comprar a peça para fazer o reparo.
 
 ![p9](https://user-images.githubusercontent.com/86032/87879901-d5bd9a80-c9c3-11ea-9d09-feb4802a6969.jpg)
-
-
-depois servidor
-
 ![p3](https://user-images.githubusercontent.com/86032/87878672-2630fa00-c9bc-11ea-86b7-74a963f4f12d.jpg)
+
+Deixei bem claro na época que esse micro servidor para rack 19" tinha um valor completamente diferente do micro desktop torre que havia sido negociado. Seguem fotos do sevidor que eu te enviei na época, para que o seu técnico pudesse avaliar o reparo na fonte, o que possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérico fechado e a dificuldade em conseguir um computador para seu filho fazer as aulas.
+
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 
 
