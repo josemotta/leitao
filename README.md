@@ -1,7 +1,7 @@
 # leitao
 Caro Leitão,
 
-Segue relato atualizado do caso. Conto com sua colaboração para que possamos resolver de forma rápida e satisfatória para ambos. Minha intenção sempre foi a de ajudar um amigo em dificuldade e espero que eu possa retomar meu trabalho normal o mais rapidamente possível, tendo cetexa que tudo fiz para auxiliar alguém em dificuldade em um momento difícil.
+Segue relato atualizado do caso. Conto com sua colaboração para que possamos resolver de forma rápida e satisfatória para ambos. Minha intenção sempre foi a de ajudar um amigo em dificuldade e espero que eu possa retomar meu trabalho normal o mais rapidamente possível, estou certo de que tudo fiz para auxiliar um amigo em dificuldade passando por um momento difícil.
 
 ## Computador servidor com gabinete rack 19"
 
