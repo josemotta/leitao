@@ -27,7 +27,7 @@ No dia 9 de março de 2020, você voltou a me procurar, em meio à pandemia do c
 
 ## Computador servidor com gabinete rack 19"
 
-No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ainda não tinha uma definição. No entanto, nesse mesmo dia à tarde, você retornou informando que o microcomputador desktop estava com um defeito que não poderia ser reparado. Você então me perguntou se eu não teria um outro computador. Eu informei que eu tinha um servidor potente mas que estava com a fonte de alimentação queimada, e que eu estava aguardando a abertura do comércio para poder comprar a peça para fazer o reparo.
+No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ainda não tinha uma definição. No entanto, nesse mesmo dia à tarde, você retornou informando que o microcomputador desktop estava com um defeito que não poderia ser reparado. Você então me perguntou se eu não teria um outro computador. Eu informei que eu tinha um servidor potente mas que estava com a fonte de alimentação queimada, e que eu estava aguardando a abertura do comércio para poder comprar a peça para fazer o reparo. Deixei bem claro na época que esse micro servidor para rack 19" tinha um valor completamente diferente do micro desktop torre que havia sido negociado. Seguem as fotos que eu te enviei na época, para que o seu técnico pudesse avaliar o reparo na fonte,
 
 ![p9](https://user-images.githubusercontent.com/86032/87879901-d5bd9a80-c9c3-11ea-9d09-feb4802a6969.jpg)
 ![p3](https://user-images.githubusercontent.com/86032/87878672-2630fa00-c9bc-11ea-86b7-74a963f4f12d.jpg)
@@ -41,7 +41,7 @@ No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ai
 - Disquete 5 1/4"
 - Fonte de alimentação com defeito
 
-Deixei bem claro na época que esse micro servidor para rack 19" tinha um valor completamente diferente do micro desktop torre que havia sido negociado. Seguem as fotos que eu te enviei na época, para que o seu técnico pudesse avaliar o reparo na fonte, o que possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérco fechado e  seu filho sem um computador para fazer as aulas. Você concordou na época em levar o computador para reparo e depois combinávamos o que fazer. Eu concordei em deixar o servidor para rack com você pelo tempo que durasse a dificuldade em obter uma solução definitiva para seu computador. Mais uma vez, deixei bem claro que o valor dessa máquina era BEM maior que o negócio que havíamos combinado. Como comerciante que é, você tinha pleno conhecimento disso. Eu fiquei feliz em poder ajudar um amigo.
+Essa opção possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérco fechado e  seu filho sem um computador para fazer as aulas. Você concordou na época em levar o computador para reparo e depois combinávamos o que fazer. Eu concordei em deixar o servidor para rack com você pelo tempo que durasse a dificuldade em obter uma solução definitiva para seu computador. Mais uma vez, deixei bem claro que o valor dessa máquina era BEM maior que o negócio que havíamos combinado. Como comerciante que é, você tinha pleno conhecimento disso. Eu fiquei feliz em poder ajudar um amigo.
 
 Pois bem, no sábado, 4 de abril, você veio à minha residência pela segunda vez e pegou o microcomputador servidor para rack 10".
 
