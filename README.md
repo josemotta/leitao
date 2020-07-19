@@ -30,12 +30,20 @@ No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ai
 ![p9](https://user-images.githubusercontent.com/86032/87879901-d5bd9a80-c9c3-11ea-9d09-feb4802a6969.jpg)
 ![p3](https://user-images.githubusercontent.com/86032/87878672-2630fa00-c9bc-11ea-86b7-74a963f4f12d.jpg)
 
-Deixei bem claro na época que esse micro servidor para rack 19" tinha um valor completamente diferente do micro desktop torre que havia sido negociado. Seguem fotos do sevidor que eu te enviei na época, para que o seu técnico pudesse avaliar o reparo na fonte, o que possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérico fechado e a dificuldade em conseguir um computador para seu filho fazer as aulas.
+- Placa mão Intel S3420GPLX
+- Processador Intel i7
+- Memória DDR3 ECC com 6 G
+- Gabinete para rack 19" completo com acessórios
+- DVD
+- Disquete 5 1/4"
+- Fonte de alimentação com defeito
+
+Deixei bem claro na época que esse micro servidor para rack 19" tinha um valor completamente diferente do micro desktop torre que havia sido negociado. Seguem fotos do sevidor que eu te enviei na época, para que o seu técnico pudesse avaliar o reparo na fonte, o que possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérico fechado e a dificuldade em conseguir um computador para seu filho fazer as aulas. Você concordou na época em levar o computador para reparo e depois combinávamos o que fazer. Eu concordei em deixar o servidor para rack com você pelo tempo que durasse a dificuldade em obter uma solução definitiva para seu computador. Mais uma vez, deixei bem claro que o valor dessa máquina era BEM maior que o negócio que havíamos combinado.
 
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 ![p10](https://user-images.githubusercontent.com/86032/87880291-f9ceab00-c9c6-11ea-8174-f0ace28d03fe.jpg)
 
-
+No sábado, 4 de abril desse ano, você veio à minha residência pela segunda vez, pegou o microcomputador servidor 
 
 
 
