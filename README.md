@@ -33,6 +33,7 @@ No dia 2 de abril, pela manhã, eu te perguntei sobre o micro desktop e você ai
 Deixei bem claro na época que esse micro servidor para rack 19" tinha um valor completamente diferente do micro desktop torre que havia sido negociado. Seguem fotos do sevidor que eu te enviei na época, para que o seu técnico pudesse avaliar o reparo na fonte, o que possibilitaria você usá-lo na emergência que estava ocorrendo, com o comérico fechado e a dificuldade em conseguir um computador para seu filho fazer as aulas.
 
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
+![p10](https://user-images.githubusercontent.com/86032/87880291-f9ceab00-c9c6-11ea-8174-f0ace28d03fe.jpg)
 
 
 
