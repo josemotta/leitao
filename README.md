@@ -46,10 +46,26 @@ Pois bem, no sábado, 4 de abril, você veio à minha residência pela segunda v
 ![p6](https://user-images.githubusercontent.com/86032/87878660-187b7480-c9bc-11ea-934d-cdf661038d56.jpg)
 ![p10](https://user-images.githubusercontent.com/86032/87880291-f9ceab00-c9c6-11ea-8174-f0ace28d03fe.jpg)
 
-No dia 14 de abril, você confirmou que o micro servidor estava funcionando e que estava comprando peças para completar o som. Fiquei bastante feliz de ter podido ajudar ao amigo em dificuldades. No dia 20 de abril
+No dia 20 de abril, você confirmou que o micro servidor estava funcionando e que estava comprando peças para completar o som. Fiquei bastante feliz de ter podido ajudar ao amigo em dificuldades. No dia 7 de maio, você confirmou que o computador servidor para rack 19" estava funcionando. Nesse momento, ACHEI ESTRANHO QUE VOCÊ ESTAVA COM O GABINETE PRETO PARA ME ENTREGAR.
 
 ![p11](https://user-images.githubusercontent.com/86032/87880593-3ac7bf00-c9c9-11ea-885a-3388fec266b9.jpg)
 ![p13](https://user-images.githubusercontent.com/86032/87880825-3b615500-c9cb-11ea-9353-0ecf94ea5163.jpg)
+
+## Situação atual
+
+Ao invés de trocar a fonte de alimentação do servidor para poder utilizá-lo durante a pandemia, você optou por retirar as peças do micro servidor. Foram retiradas, segundo seu relato, as segintes peças do gabinete para rack 19":
+
+- Placa mão Intel S3420GPLX
+- Processador Intel i7
+- Memória DDR3 ECC com 6 G
+
+Não concordei com sua decisão mas caso você se interesse em ficar com o material, solicito o reeembolso à vista com base em valores de mercado. Como você deve saber, eu trabalho com informática e dependo desses computadores para realizar meu trabalho. Devido ao empréstimo desse servidor para você, precisei realizar 
+
+[Scan 19 Jul 2020 14_43.pdf](https://github.com/josemotta/leitao/files/4944244/Scan.19.Jul.2020.14_43.pdf)
+
+
+
+
 
 
 
