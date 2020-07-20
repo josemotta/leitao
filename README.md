@@ -66,7 +66,7 @@ Ao invés de trocar a fonte de alimentação do servidor para poder utilizá-lo 
 - Processador Intel i7
 - Memória DDR3 ECC com 6 G
 
-Como você deve saber, eu trabalho com informática e dependo desses computadores para realizar meu trabalho. Devido ao empréstimo desse servidor para você, precisei realizar a compra de uma placa-mãe nova para poder trabalhar. O valor dessa placa-mãe, semelhante à instalada no micro servidor que você levou, foi de R$1.390,00 (hum mil trezentos e noventa reais), conforme comprovação da [nota fiscal](Scan%2019%20Jul%202020%2014_43.pdf) emitida em 12 de maio de 2020.
+Como você deve saber, eu trabalho com informática e dependo desses computadores para realizar meu trabalho. Devido ao empréstimo desse servidor para você, precisei realizar a **compra de uma placa-mãe nova para poder trabalhar**. O valor dessa placa-mãe, semelhante à instalada no micro servidor que você levou, foi de **R$1.390,00 (hum mil trezentos e noventa reais)**, conforme comprovação da nota fiscal emitida em 12 de maio de 2020.
 
 Não concordei com sua decisão de canibalizar o meu servidor mas caso você se interesse em ficar com o material, solicito o reeembolso à vista com base em valores de mercado, conforme listado a seguir:
 
